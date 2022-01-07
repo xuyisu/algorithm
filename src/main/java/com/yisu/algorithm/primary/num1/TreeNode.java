@@ -1,4 +1,4 @@
-package com.yisu.algorithm.num1;
+package com.yisu.algorithm.primary.num1;
 
 public class TreeNode {
     Integer val;

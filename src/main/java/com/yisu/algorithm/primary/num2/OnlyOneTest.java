@@ -1,4 +1,4 @@
-package com.yisu.algorithm.num2;
+package com.yisu.algorithm.primary.num2;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
